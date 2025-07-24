@@ -7,4 +7,4 @@ Atualmente estudante em Análise e Desenvolvimento de Sistemas
 
 - &#128187; Atualmente mais focado em:
 
-  <img width-50 height-50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width:50px height:50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
