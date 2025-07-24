@@ -8,7 +8,7 @@
 
 ##  Sobre mim
 
-<p>✨ Tenho 23 anos, Atualmente faço Faculdade pela Unisinos em Porto Alegre.
+<p>✨ Tenho 23 anos e atualmente faço Faculdade pela Unisinos em Porto Alegre.
 <p>🚀 Em constante evolução nas áreas de desenvolvimento: JavaScript, React, Node.js, Python e bancos de dados (MySQL, PostgreSQL).<p>
 <p>💡 Valorizo aprendizado contínuo, criatividade e crescimento profissional.<p>
 <p>🏋️‍♀️ Além da programação, gosto de jogar jogos eletrônicos, assistir séries, esportes e momentos ao ar livre.<p> 
