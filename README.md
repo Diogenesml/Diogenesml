@@ -1,6 +1,10 @@
 ## Oi, meu nome é Diógenes 👋
 Atualmente estudante em Análise e Desenvolvimento de Sistemas
 
-&#128210; Análise e desenvolvimento de Sistemas - UniSinos
+- &#128210; Análise e desenvolvimento de Sistemas - UniSinos
 
-&#128187; HTML / CSS / JS / Python / Banco de Dados
+- &#8205; Obcecado pelo desenvolvimento web e tecnologia
+
+- &#128187; Atualmente mais focado em:
+
+  <img width-"50" height-"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
